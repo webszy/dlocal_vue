@@ -1,0 +1,17 @@
+{
+  "name": "dlocal_vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fnando/cpf": "^1.0.2",
+    "cnpj": "^3.2.0",
+    "vant": "^2.12.19"
+  }
+}
